@@ -1,6 +1,6 @@
 {% set name = "dask-distance" %}
-{% set version = "0.1.0" %}
-{% set sha256 = "e5b972346bcd558a69f57e7d95e4c07cf8f2556fdeb3f24af24d18a920f8205b" %}
+{% set version = "0.2.0" %}
+{% set sha256 = "4264a7aa3aafb9e762225cf3b0ce58459ff0cfeb06b2af97b0834073fb3fb96f" %}
 
 package:
   name: {{ name|lower }}
