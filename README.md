@@ -14,12 +14,15 @@ Summary: Distance computations with Dask (akin to scipy.spatial.distance)
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/dask-distance-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dask-distance-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/dask-distance-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/dask-distance-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/dask-distance/badges/version.svg)](https://anaconda.org/conda-forge/dask-distance)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/dask-distance/badges/downloads.svg)](https://anaconda.org/conda-forge/dask-distance)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-dask--distance-green.svg)](https://anaconda.org/conda-forge/dask-distance) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/dask-distance.svg)](https://anaconda.org/conda-forge/dask-distance) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/dask-distance.svg)](https://anaconda.org/conda-forge/dask-distance) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/dask-distance.svg)](https://anaconda.org/conda-forge/dask-distance) |
 
 Installing dask-distance
 ========================
